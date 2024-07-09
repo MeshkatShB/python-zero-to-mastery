@@ -1,0 +1,14 @@
+This is a sample debug message
+This is a sample debug message
+Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\Asus\AppData\Local\Temp\ipykernel_14540\1521490165.py", line 2, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\Asus\AppData\Local\Temp\ipykernel_14540\1521490165.py", line 2, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+This is a custom log message
+This is a custom log message
