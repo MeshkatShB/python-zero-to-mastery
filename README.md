@@ -1,4 +1,4 @@
-# pytorch-zero-to-mastery
+# python-ero-to-mastery
 ## About
 In this repo, I want to explore more about Python programming language. I will discuss 
 hot-topic and useful libraries in this programming language, so you can have a deep understanding of 
