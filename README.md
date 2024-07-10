@@ -13,6 +13,29 @@ whereabouts of this language. Python is really vast, so I will try to update it 
 - Rotating Log Files
 - Logging Exceptions
 - Custom Level Logging
+
+### 2. Testing [`testing_zero_to_mastery.ipynb`]
+- Types of Software Testing
+  - Manual Testing
+  - Automated Testing
+- Functional vs. Non-Functional
+  - Definition
+  - Functional Testing
+    - Unit Testing
+    - Integration Testing
+    - System Testing
+    - Acceptance Testing
+  - Non-Functional Testing
+    - Performance Testing
+    - Load Testing
+    - Security Testing
+    - Usability Testing
+  - Understanding the Difference [functional/non-functional vs. manual/automated]
+- Code
+  - Our Application
+  - Write a Test Case
+  - Analysis
+
 ### [MORE TO COME...]
 
 
