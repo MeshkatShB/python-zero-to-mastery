@@ -36,6 +36,26 @@ whereabouts of this language. Python is really vast, so I will try to update it 
   - Write a Test Case
   - Analysis
 
+
+### 3. Parallelism & Concurrency [`parallelism_zero_to_mastery.ipynb`]
+- Understanding Concurrency & Parallelism
+- Asyncio for Concurrency
+  - Details
+  - Asyncio Queue
+  - asyncio.run()
+  - asyncio.gather()
+  - asyncio.create_task()
+  - asyncio.sleep()
+  - asyncio.wait()
+  - asyncio.as_completed()
+  - asyncio.shield()
+- Threading for Concurrency
+- Multiprocessing for Parallelism
+- Threading vs Multiprocessing
+  - Threading
+  - Multiprocessing
+  - Summary
+
 ### [MORE TO COME...]
 
 
