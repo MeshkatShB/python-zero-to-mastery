@@ -56,7 +56,34 @@ whereabouts of this language. Python is really vast, so I will try to update it 
   - Multiprocessing
   - Summary
 
-### [MORE TO COME...]
+
+### 4. Decorators & Metaclasses [`decorator__zero_to_mastery.ipynb`]
+- Description
+- Decorator
+  - Function Decorators
+  - Decorators with Arguments
+  - Class Decorators
+  - Advanced Function Decorators
+    - Decorating Functions with Arguments
+    - Chaining Decorators
+    - Decorators with Optional Arguments
+    - Retry Logic
+  - Existing Decorators
+    - @staticmethod & @classmethod
+    - @property
+    - @lru_cache (functools)
+    - @dataclass (dataclasses)
+    - @contextmanager (contextlib)
+    - @cached_property (functools)
+    - @dataclass with Field Customization
+    - @retry (Third-Party Library - retrying)
+- Metaclass
+  - Creating a Metaclass
+  - Enforcing Class Behavior
+  - Singleton Metaclass
+
+
+### 5. [MORE TO COME...]
 
 
 ## Remarks
