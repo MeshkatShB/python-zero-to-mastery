@@ -83,7 +83,15 @@ whereabouts of this language. Python is really vast, so I will try to update it 
   - Singleton Metaclass
 
 
-### 5. [MORE TO COME...]
+### 5. Data Serialization
+- Description
+- Python
+  - JSON
+  - Pickle
+  - YAML
+- Comparison
+
+### 6. [MORE TO COME...]
 
 
 ## Remarks
